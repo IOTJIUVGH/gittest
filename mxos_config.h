@@ -23,6 +23,7 @@
 #define WIFIWARE_VERSION_PREFIX					"AWS_Philips_AIR@"
 #define WIFIWARE_VERSION_MAJOR					0
 #define WIFIWARE_VERSION_MINOR					67
+#define WIFILOGCLASS                            2
 
 #ifndef ENVIRONMENT_PRODUCTION
 #define ENVIRONMENT_FLAG                        "@S"
