@@ -41,7 +41,7 @@
 
 #define FIRMWARE_REVISION                       WIFIWARE_VERSION_PREFIX VERSION(WIFIWARE_VERSION_MINOR) ENVIRONMENT_FLAG SECURITY_FLAG
 
-#define FIRMWARE_REVISION_MINOR                 "0.6.7"
+#define FIRMWARE_REVISION_MINOR                 "0.6.6"
 #define SERIAL_NUMBER                           "0163.PO11.0067"
 
 #define MANUFACTURER                            "MXCHIP Inc."
