@@ -1,0 +1,3 @@
+[submodule "submuduletest"]
+	path = submuduletest
+	url = https://github.com/IOTJIUVGH/submuduletest.git
